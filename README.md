@@ -1,6 +1,6 @@
 A student database is a structured collection of information designed to manage educational records, track academic progress, and streamline administrative tasks within an institution.
 
-The files I provided (DataModel, Metadata, Settings, etc.) represent the internal components of a Power BI data model. This suggests that your "Student Database" is likely a business intelligence project designed to analyze educational data.
+The files I provided (DataModel, Metadata, Settings, etc.) represent the internal components of a Power BI data model. This suggests that my "Student Database" is likely a business intelligence project designed to analyze educational data.
 
 Core Components of a Student Database
 A robust student database typically consists of several interconnected tables that form a relational schema:
